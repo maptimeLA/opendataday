@@ -1,4 +1,4 @@
-## Follow along at: [https://maptimela.github.io/opendataday](https://maptimela.github.io/opendataday)
+## Follow along at: <a href="https://maptimela.github.io/opendataday" target="_blank">https://maptimela.github.io/opendataday</a>
 MaptimeLA workshop as part of Open Data Day
 
 # Objective
