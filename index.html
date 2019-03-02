@@ -220,7 +220,7 @@
 
 <div class="slide image_bottom">
 	<p>A copy of these datasets can also be found in the GitHub repository under the data folder.</p>
-	<img src="images/lacounts.png"/>
+	<img src="images/datagithub.png"/>
 </div>
 
 <div class="slide black">
@@ -235,6 +235,70 @@
 <div class="slide image_bottom">
 	<p>When you open the zip file, you will see several files. These files together make up a shapefile which is a common GIS file type.</p>
 	<img src="images/shapefile.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Next let's open the Excel table. This file will need some modifications if we want to map the data.</p>
+	<img src="images/excel.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Delete the header rows and take note of the names of fields that contain the map coordinates (latitude, longitude). Save as a csv.</p>
+	<img src="images/excelfields.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Open QGIS Desktop</p>
+	<img src="images/qgismain.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Drag and drop the 3 zip files (cities, neighborhood councils, parks) from your file explorer into the QGIS window.</p>
+	<img src="images/layers.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Alternatively, you can navigate to them through the Browser panel (right click on a grey toolbar to add the Browser Panel if needed).</p>
+	<img src="images/layers.png"/>
+</div>
+
+<div class="slide">
+	<p>If you try to add the schools, it will just show up as a table. However, we want to see the school locations.</p>
+</div>
+
+<div class="slide image_bottom">
+	<p>Go to Layer, Add Layer, Add Delimited Text Layer.</p>
+	<img src="images/dtext.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Select your csv under File Name. Under Geometry Definition, select Point Coordinates.<br>X = Longitude, Y = Latitude</p>
+	<img src="images/addschools.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Now we see schools!</p>
+	<img src="images/seeschools.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>How do we see what the shapes are? One way is to use the Identify tool (i in a blue circle). Click on te identify tool and then click on a feature.</p>
+	<img src="images/identify.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Identify works on whatever layer is highlighted in your Layers panel (try selecting another layer and identifying a feature in that layer).</p>
+	<img src="images/identify2.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>If we want to see all the names and information in a layer, we can open a table view. Right click on a layer and select Open Attribute Table.</p>
+	<img src="images/openatable.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Now you can explore all the data connected to all the shapes on the map. Any rows you select will be highlighted on the map.</p>
+	<img src="images/tableview.png"/>
 </div>
 
 <div class="slide black">
