@@ -173,14 +173,15 @@
 </div>
 
 <div class="slide">
-	<p>You will want to have QGIS version 3.x to follow along: <a target="_blank" href="https://qgis.org/en/site/forusers/download.html">QGIS Download</a></p>
+	<p>You will want to have QGIS version 3.x to follow along: <a target="_blank" href="https://qgis.org/en/site/forusers/download.html">QGIS Download</a><br><br>
+		For Mac Users with OSX greater than 10.13, install LTR Release 3.4.5 package from here: <a target="_blank" href="https://lutraconsulting.github.io/qgis-mac-packager/">Mac Installer</a></p>
 </div>
 
 <div class="slide black">
 	<p>Today's Topics<br><br>
 		Task 1: Get data<br>
-		Task 2: Add data<br>
-		Task 3: Visualize data</p>
+		Task 2: Examine data<br>
+		Task 3: Make a map</p>
 </div>
 
 <div class="slide black">
@@ -192,15 +193,131 @@
 	<img src="images/lacounts.png"/>
 </div>
 
-<div class="slide black">
-	<p>Task 2: Add data<br></p>
+<div class="slide image_bottom">
+	<p>There are many different open data portals. If you are not sure where to start, LA Counts aggregates all these sources into one place to search.</p>
+	<img src="images/lacounts.png"/>
 </div>
 
-
-<div class="slide black">
-	<p>Task 3: Visualize data<br></p>
+<div class="slide">
+	<p>A few of the bigger portals:<br><br>
+		Spatial Data:<br>
+		&emsp;&bull; <a target="_blank" href="http://geohub.lacity.org/">LA City</a><br>
+		&emsp;&bull; <a target="_blank" href="https://egis3.lacounty.gov/dataportal/">LA County</a><br><br>
+ 		All Data:<br>
+		&emsp;&bull; <a target="_blank" href="https://data.lacity.org/">LA City</a><br>
+		&emsp;&bull; <a target="_blank" href="https://data.lacounty.gov/">LA County</a><br>
+	</p>
 </div>
 
+<div class="slide">
+	<p>For today's exercise, we will use the following datasets (LA Counts links):<br><br>
+		&emsp;&bull; <a target="_blank" href="https://lacounts-staging.l3.ckan.io/dataset/city-boundaries-scag-region2">Cities</a><br>
+		&emsp;&bull; <a target="_blank" href="https://lacounts-staging.l3.ckan.io/dataset/neighborhood-councils-certified1">LA Neighborhood Councils</a><br>
+		&emsp;&bull; <a target="_blank" href="https://www.lacounts.org/catalog/5515/">Schools</a><br>
+		&emsp;&bull; <a target="_blank" href="https://lacounts-staging.l3.ckan.io/dataset/protected-open-space-areas-scag-region2">Parks</a><br>
+	</p>
+</div>
+
+<div class="slide image_bottom">
+	<p>A copy of these datasets can also be found in the GitHub repository under the data folder.</p>
+	<img src="images/datagithub.png"/>
+</div>
+
+<div class="slide black">
+	<p>Task 2: Examine data<br></p>
+</div>
+
+<div class="slide image_bottom">
+	<p>What is in the data you just downloaded?</p>
+	<img src="images/data.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>When you open the zip file, you will see several files. These files together make up a shapefile which is a common GIS file type.</p>
+	<img src="images/shapefile.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Next let's open the Excel table. This file will need some modifications if we want to map the data.</p>
+	<img src="images/excel.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Delete the header rows and take note of the names of fields that contain the map coordinates (latitude, longitude). Save as a csv.</p>
+	<img src="images/excelfields.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Open QGIS Desktop</p>
+	<img src="images/qgismain.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Drag and drop the 3 zip files (cities, neighborhood councils, parks) from your file explorer into the QGIS window.</p>
+	<img src="images/layers.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Alternatively, you can navigate to them through the Browser panel (right click on a grey toolbar to add the Browser Panel if needed).</p>
+	<img src="images/layers.png"/>
+</div>
+
+<div class="slide">
+	<p>If you try to add the schools, it will just show up as a table. However, we want to see the school locations.</p>
+</div>
+
+<div class="slide image_bottom">
+	<p>Go to Layer, Add Layer, Add Delimited Text Layer.</p>
+	<img src="images/dtext.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Select your csv under File Name. Under Geometry Definition, select Point Coordinates.<br>X = Longitude, Y = Latitude</p>
+	<img src="images/addschools.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Now we see schools!</p>
+	<img src="images/seeschools.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>How do we see what the shapes are? One way is to use the Identify tool (i in a blue circle). Click on te identify tool and then click on a feature.</p>
+	<img src="images/identify.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Identify works on whatever layer is highlighted in your Layers panel (try selecting another layer and identifying a feature in that layer).</p>
+	<img src="images/identify2.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>If we want to see all the names and information in a layer, we can open a table view. Right click on a layer and select Open Attribute Table.</p>
+	<img src="images/openatable.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p>Now you can explore all the data connected to all the shapes on the map. Any rows you select will be highlighted on the map.</p>
+	<img src="images/tableview.png"/>
+</div>
+
+<div class="slide black">
+	<p>Task 3: Make a map<br></p>
+</div>
+
+<div class="slide">
+	<p>We've got some data in our map, but how do we make it look good?</p>
+</div>
+
+<div class="slide image_bottom">
+	<p>First, let's add some basemaps. Basemaps give context to our layers. We're going to add a Plugin that has basemaps.</p>
+	<img src="images/osm.png"/>
+</div>
+
+<div class="slide image_bottom">
+	<p></p>
+	<img src="images/osm.png"/>
+</div>
 
 <div class="slide">
 	<p>We're done w/ the tutorial, but now you should experiment! Modify these tasks to use different data. Then try other tools.</p>
@@ -208,9 +325,11 @@
 
 <div class="slide image_bottom">
 	<p class="small">Learn more:<br><br>
-  > <a target="_blank" href="https://www.qgistutorials.com/en/">QGIS Tutorials</a><br><br>
-	> <a target="_blank" href="https://docs.qgis.org/testing/en/docs/">Latest documentation</a><br>
-		everything post 2.18 is "testing" because of the huge effort involved in translating to global languages<br><br>
+  &emsp;&bull; <a target="_blank" href="https://www.qgistutorials.com/en/">QGIS Tutorials</a><br><br>
+	&emsp;&bull; <a target="_blank" href="https://docs.qgis.org/testing/en/docs/">Latest documentation</a><br>
+	&emsp;&ensp; everything post 2.18 is "testing" because of the<br>
+	&emsp;&ensp; huge effort involved in translating to global<br>
+	&emsp;&ensp; languages<br><br>
 	</p>
 </div>
 
