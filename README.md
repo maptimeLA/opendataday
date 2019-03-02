@@ -13,10 +13,10 @@ In this tutorial we will learn:
 
 # What data will we use?
 We are using data that can be found through LA Counts:
-* Cities: [https://lacounts-staging.l3.ckan.io/dataset/city-boundaries-scag-region2](https://lacounts-staging.l3.ckan.io/dataset/city-boundaries-scag-region2)
-* LA Neighborhood Councils: [https://lacounts-staging.l3.ckan.io/dataset/neighborhood-councils-certified1](https://lacounts-staging.l3.ckan.io/dataset/neighborhood-councils-certified1)
-* Schools:[https://www.lacounts.org/catalog/5515/](https://www.lacounts.org/catalog/5515/)
-* Parks: [https://lacounts-staging.l3.ckan.io/dataset/protected-open-space-areas-scag-region2](https://lacounts-staging.l3.ckan.io/dataset/protected-open-space-areas-scag-region2)
+* Cities: [https://lacounts.ckan.io/dataset/city-boundaries-scag-region](https://lacounts.ckan.io/dataset/city-boundaries-scag-region)
+* LA Neighborhood Councils: [https://lacounts.ckan.io/dataset/neighborhood-council-boundaries-2018](https://lacounts.ckan.io/dataset/neighborhood-council-boundaries-2018)
+* Schools:[https://lacounts.ckan.io/dataset/public-schools-and-districts](https://lacounts.ckan.io/dataset/public-schools-and-districts)
+* Parks: [https://lacounts.ckan.io/dataset/protected-open-space-areas-scag-region](https://lacounts.ckan.io/dataset/protected-open-space-areas-scag-region)
 
 # Scope
 We aren't going to go in-depth, but we will cover basic usage. Additional resources:
