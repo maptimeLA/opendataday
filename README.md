@@ -1,6 +1,8 @@
 ## Follow along at: [https://maptimela.github.io/opendataday](https://maptimela.github.io/opendataday)
 MaptimeLA workshop as part of Open Data Day
 
+Use the left/right arrow keys or Page Up/Page Down to advance slides. Mouse click advancement has been disabled to allow clicking links from the slides.
+
 # Objective
 In this tutorial we will learn:
 * what QGIS is
