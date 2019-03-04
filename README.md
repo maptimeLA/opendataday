@@ -24,5 +24,5 @@ We aren't going to go in-depth, but we will cover basic usage. Additional resour
 * Documentation: [https://docs.qgis.org/testing/en/docs/](https://docs.qgis.org/testing/en/docs/)
 
 # Downloads
-Package contains standalone QGIS installation, with bundled Python3, Qt, GDAL, GRASS, SAGA and other dependencies.
-* [Download QGIS](https://lutraconsulting.github.io/qgis-mac-packager/)
+* [Download MacOS Packages of QQIS](https://lutraconsulting.github.io/qgis-mac-packager/). This package contains standalone QGIS installation, with bundled Python3, Qt, GDAL, GRASS, SAGA and other dependencies. 
+* [Download QGIS for your platform](https://www.qgis.org/en/site/forusers/download.html)
