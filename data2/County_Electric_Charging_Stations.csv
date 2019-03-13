@@ -1,0 +1,236 @@
+﻿X,Y,OBJECTID,post_id,Name,description,cat1,cat2,cat3,addrln1,addrln2,city,state,zip,hours,phones,url,email,info1,info2,link,org_name,source,ext_id,use_type,dis_status,latitude,longitude,date_updated,POINT_X,POINT_Y
+-118.593801455663154,34.487788066215536,133652791,81708,Sheriff - Pitchess Detention Center (EVSE),"Opened at 8/1/2014
+
+Employee use only",Transportation,Alternative Fuel,Electricity Fueling Stations,29320 Wayside Rd,,Castaic,CA,91384,,,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81708,Los Angeles County - Sheriff ,,,publish,,34.4877881,-118.5938014,2017-01-30T13:29:11.000Z,6382738.05920689,2000424.33407289
+-118.075815857282407,34.103047266957141,133652792,81710,Sheriff - Temple City Station (EVSE),"Opened at 8/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,8838 Las Tunas Dr,,Temple City,CA,91780,24 hours daily,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81710,Los Angeles County - Sheriff ,,,publish,,34.1030473,-118.0758158,2017-01-30T13:31:26.000Z,6538718.74822913,1859889.93600839
+-118.230698056742654,34.058725666959973,133652793,81712,Sheriff - Twin Towers Detention Facility (EVSE),"Opened at 8/1/2014
+
+Permitted employee parking only",Transportation,Alternative Fuel,Electricity Fueling Stations,450 E Bauchet,,Los Angeles,CA,90012,,,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81712,Los Angeles County - Sheriff ,,,publish,,34.0587257,-118.230698,2017-01-30T13:33:21.000Z,6491794.57797006,1843831.99207447
+-118.383370956582468,34.084399466515684,133652794,81716,Sheriff - West Hollywood Station (EVSE),"Opened at 8/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,780 San Vicente Blvd,,West Hollywood ,CA,90069,24 hours daily,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81716,Los Angeles County - Sheriff ,,,publish,,34.0843995,-118.3833709,2017-01-30T13:37:16.000Z,6445587.53980689,1853316.35991673
+-117.954105456826994,34.088898066700082,133652795,81718,Department of Public Works - Baldwin Park Construction Permit Office (EVSE),,Transportation,Alternative Fuel,Electricity Fueling Stations,14747 E Ramona Blvd,,Baldwin Park,CA,91706,,,,,Public ,,http://egis3.lacounty.gov/lms/?p=81718,Los Angeles County - Department of Public Works,,,publish,,34.0888981,-117.9541054,2017-01-30T13:39:00.000Z,6575566.26869406,1854735.2947429
+-118.167863055879323,33.923722966873562,133652796,81720,Department of Public Works - Hollydale Construction Permit Office (EVSE),,Transportation,Alternative Fuel,Electricity Fueling Stations,11282 S Garfield Ave,,Downey,CA,90242,,,,,Public ,,http://egis3.lacounty.gov/lms/?p=81720,Los Angeles County - Department of Public Works ,,,publish,,33.923723,-118.167863,2017-01-30T13:41:01.000Z,6510744.5056213,1794664.03857331
+-118.002451657132269,34.113165967002317,133652797,81722,Department of Public Works - Longden Flood Maintenance Yard (EVSE),,Transportation,Alternative Fuel,Electricity Fueling Stations,160 E Longden Ave,,Irwindale,CA,91706,,,,,Public ,,http://egis3.lacounty.gov/lms/?p=81722,Los Angeles County - Department of Public Works ,,,publish,,34.113166,-118.0024516,2017-01-30T13:43:00.000Z,6560928.24875756,1863563.67406772
+-118.248932556268585,34.056606667214908,133652798,81726,Music Center Parking (EVSE),"Music Center Parking Lot 14, level 2
+
+Opened at 1/31/2002
+
+Garage business hours; pay lot; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,135 N Grand Ave,,Los Angeles,CA,90012,Garage business hours,"213-972-7211
+323-267-2023",,,Public ,3 charging stations,http://egis3.lacounty.gov/lms/?p=81726,Los Angeles County - Music Center ,,,publish,,34.0566067,-118.2489325,2017-01-30T13:46:54.000Z,6486269.66054222,1843074.02607073
+-118.248932556268585,34.056606667214908,133652799,81728,Music Center Parking (EVSE),"Music Center Parking Lot 14, level 3
+
+Opened at 8/1/2014
+
+Garage business hours; pay lot; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,135 N Grand Ave,,Los Angeles,CA,90012,Garage business hours,213-972-7211  323-267-2023,,,Public ,3 charging stations,http://egis3.lacounty.gov/lms/?p=81728,Los Angeles County - Music Center ,,,publish,,34.0566067,-118.2489325,2017-01-30T13:49:02.000Z,6486269.66054222,1843074.02607073
+-118.288681855944859,34.017076866768782,133652800,81730,Natural History Museum (EVSE),"Lower level of parking structure
+
+Opened at 1/2/2014",Transportation,Alternative Fuel,Electricity Fueling Stations,900 Exposition Blvd,,Los Angeles,CA,90007,Museum business hours,323-267-2023,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81730,Los Angeles County - Natural History Museum,,,publish,,34.0170769,-118.2886818,2017-01-30T13:50:46.000Z,6474188.47145006,1828720.60792723
+-118.150046457085566,34.085041267175768,133652801,81732,Public Works Annex (EVSE),"Northside of Annex by driveway
+
+Opened at 8/1/2014
+
+6am-6pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,900 S Fremont Ave,,Alhambra ,CA,91803,6am-6pm M-F,323-267-2023,,,County Only,3 charging stations,http://egis3.lacounty.gov/lms/?p=81732,Los Angeles County - Public Works,,,publish,,34.0850413,-118.1500464,2017-01-30T13:52:48.000Z,6516237.28499006,1853362.46710798
+-118.150046457085566,34.085041267175768,133652802,81734,Public Works Headquarters (EVSE),"Located in front and near the motorpool area
+
+Opened at 8/1/2014
+
+6am-6pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,900 S Fremont Ave,,Alhambra ,CA,91803,6am-6pm M-F,323-267-2023,,,County Only,8 charging stations,http://egis3.lacounty.gov/lms/?p=81734,Los Angeles County - Public Works ,,,publish,,34.0850413,-118.1500464,2017-01-30T13:55:01.000Z,6516237.28499006,1853362.46710798
+-118.150046457085566,34.085041267175768,133652803,81737,Public Works Headquarters (EVSE),"Located in front and near the motorpool area
+
+6am-6pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,900 S Fremont Ave,,Alhambra ,CA,91803,6am-6pm M-F,323-267-2023,,,County Only,5 charging stations,http://egis3.lacounty.gov/lms/?p=81737,Los Angeles County - Public Works ,,,publish,,34.0850413,-118.1500464,2017-01-30T13:56:48.000Z,6516237.28499006,1853362.46710798
+-118.158588556008354,33.929331667114603,133652804,81739,Rancho Los Amigos Hospital (EVSE),"Parking Structure rear bottom floor
+
+Opened at 8/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,7601 E Imperial Hwy,,Downey ,CA,90242,24 hours daily,323-267-2023,,,County Only,5 charging stations,http://egis3.lacounty.gov/lms/?p=81739,Los Angeles County - Rancho Los Amigos Hospital,,,publish,,33.9293317,-118.1585885,2017-01-30T13:58:34.000Z,6513561.39631297,1796700.59946081
+-118.24888495619517,34.055509366775198,133652805,81741,Walt Disney Concert Hall (EVSE),"Disney Concert Hall Parking Lot 16
+
+Garage business hours; pay lot; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,115 S Grand Ave,,Los Angeles,CA,90012,Garage business hours,323-881-3919 ,,,Public ,6 charging stations,http://egis3.lacounty.gov/lms/?p=81741,Los Angeles County - Walt Disney Concert Hall,,,publish,,34.0555094,-118.2488849,2017-01-30T14:00:47.000Z,6486283.08964922,1842674.66269623
+-118.245039056859213,34.055059967142192,133652806,81724,Los Angeles Law Library (Lot 10) (EVSE),"Parking Lot 10
+
+Opened at 8/1/2014
+
+Garage business hours; pay lot; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,145 N Broadway,,Los Angeles,CA,90012,Garage business hours,323-881-3919 ,,,Public ,4 charging stations,http://egis3.lacounty.gov/lms/?p=81724,Los Angeles County - Los Angeles Law Library ,,,publish,,34.05506,-118.245039,2017-01-30T14:02:12.000Z,6487447.61159839,1842508.25587681
+-117.834321257335404,34.02892826705795,133652807,81714,Sheriff - Walnut Station (EVSE),"Opened at 8/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,21695 Valley Blvd,,Walnut,CA,91789,24 hours daily,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81714,Los Angeles County - Sheriff ,,,publish,,34.0289283,-117.8343212,2017-01-30T14:02:54.000Z,6611870.41229297,1832949.32551965
+-118.231887856657366,34.059742966558638,133652808,81705,Sheriff - Men's Central Jail (EVSE),"Opened at 8/1/2014
+
+Permitted employee parking only",Transportation,Alternative Fuel,Electricity Fueling Stations,441 E Bauchet,,Los Angeles,CA,90012,,,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81705,Los Angeles County - Sheriff ,,,publish,,34.059743,-118.2318878,2017-01-30T14:03:25.000Z,6491435.0560513,1844203.03529565
+-118.714632755335728,34.137439966292753,133652809,81703,Sheriff - Lost Hills (EVSE),"Opened at 8/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,27050 Agoura Rd,,Agoura,,91301,24 hours daily,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81703,Los Angeles County - Sheriff ,,,publish,,34.13744,-118.7146327,2017-01-30T14:03:31.000Z,6345421.65450914,1873166.13255306
+-118.230395156142748,34.221140966927237,133652810,81701,Sheriff - La Crescenta Station (EVSE),"Opened at 7/1/2016
+
+24 hours daily; keypad activated, instructions on EVSE
+
+&nbsp;",Transportation,Alternative Fuel,Electricity Fueling Stations,4554 Briggs Ave,,La Crescenta,,91214,24 hours daily,323-267-2023,,,Public ,2 charging stations,http://egis3.lacounty.gov/lms/?p=81701,Los Angeles County - Sheriff,,,publish,,34.221141,-118.2303951,2017-01-30T14:03:35.000Z,6492021.79667573,1902937.55201273
+-118.16835015649697,34.059560266743752,133652811,81699,Sheriff - Headquarters (EVSE),"Opened at 8/1/2014
+
+8am-5pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,4700 Ramona Blvd,,Monterey Park,CA,91754,8am-5pm M-F,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81699,Los Angeles County - Sheriff,,,publish,,34.0595603,-118.1683501,2017-01-30T14:05:00.000Z,6510679.52215546,1844098.23432414
+-118.17425565615315,34.049701466868925,133652812,81697,Sheriff - Fleet Shop (EVSE),"Northside wall of Shop
+
+Opened at 8/1/2014
+
+8am-5pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,1104 N Eastern Ave,,Los Angeles ,,90063,8am-5pm M-F,323-267-2023,,,Public ,2 charging stations,http://egis3.lacounty.gov/lms/?p=81697,Los Angeles County - Sheriff ,,,publish,,34.0497015,-118.1742556,2017-01-30T14:05:05.000Z,6508884.61399989,1840513.47935456
+-118.175168256068218,34.053287567194353,133652813,81695,Sheriff - Communications Center (EVSE),"Opened at 8/1/2014
+
+Permitted employee parking only",Transportation,Alternative Fuel,Electricity Fueling Stations,1275 N Eastern Ave,,Los Angeles,CA,90063,,,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81695,Los Angeles County - Sheriff,,,publish,,34.0532876,-118.1751682,2017-01-30T14:05:08.000Z,6508610.44263221,1841819.0095519
+-118.226990556566534,33.938295666881331,133652814,81693,Sheriff - Century Station (EVSE),"Opened at 8/1/2014
+
+Garage business hours; pay lot; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,11705 S Alameda ,,Lynwood,CA,90059,Garage business hours,323-267-2023,,,Public ,2 charging stations,http://egis3.lacounty.gov/lms/?p=81693,Los Angeles County - Sheriff,,,publish,,33.9382957,-118.2269905,2017-01-30T14:05:12.000Z,6492818.56575146,1800002.58793557
+-118.263043756123338,33.834435467555366,133652815,81691,Sheriff - Carson Station (EVSE),"Opened at 7/1/2016
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,21356 S Avalon Blvd,,Carson,CA,90745,24 hours daily,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81691,Los Angeles County - Sheriff ,,,publish,,33.8344355,-118.2630437,2017-01-30T14:05:25.000Z,6481783.8627553,1762232.16347656
+-118.551035956235012,34.415508366333192,133652816,81689,Sheriff  - Santa Clarita Station (EVSE),"Opened at 8/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,23740 Magic Mountain Pkwy,,Santa Clarita,CA,91355,24 hours daily,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81689,Los Angeles County - Sheriff,,,publish,,34.4155084,-118.5510359,2017-01-30T14:05:30.000Z,6395480.4054413,1974047.22147289
+-117.802142057056784,34.104770167032932,133652817,81687,Sheriff  - San Dimas Station (EVSE),"Opened at 8/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,270 S Walnut Ave,,San Dimas ,CA,91773,24 hours daily,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81687,Los Angeles County - Sheriff,,,publish,,34.1047702,-117.802142,2017-01-30T14:05:34.000Z,6621566.25313747,1860567.22992939
+-118.067893856913287,33.915989367172756,133652818,81685,Registrar-Recorder - County Clerk (EVSE),"Located in employee parking lot; notify parking attendant when charging
+
+Opened at 8/1/2014
+
+Garage business hours; reserved primarily for employee use; notify attendant before charging",Transportation,Alternative Fuel,Electricity Fueling Stations,12400 E Imperial Hwy,,Norwalk ,CA,90650,Business hours,323-267-2023,,,County Only,3 charging stations,http://egis3.lacounty.gov/lms/?p=81685,Los Angeles County - Registrar-Recorder - County Clerk,,,publish,,33.9159894,-118.0678938,2017-01-30T14:05:38.000Z,6541070.98368214,1791814.04132056
+-118.21252815645397,34.061894266725147,133652819,81683,University of Southern California Medical Center (EVSE),"Located in lot 10
+
+Opened at 8/1/2014
+
+Employee use only",Transportation,Alternative Fuel,Electricity Fueling Stations,1214 N Mission Rd,,Los Angeles ,CA,90033,,,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81683,Los Angeles County - University of Southern California Medical Center,,,publish,,34.0618943,-118.2125281,2017-01-30T14:05:42.000Z,6497300.45967481,1844972.97076364
+-118.21044575624542,34.053682267012896,133652820,81681,University of Southern California Medical Center (EVSE),"Located in Lot 9 D
+
+Opened at 9/1/2015
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,Brittania St,,Los Angeles ,CA,90033,323-267-2023,323-267-2023,,,County Only,10 charging stations,http://egis3.lacounty.gov/lms/?p=81681,Los Angeles County - University of Southern California Medical Center,,,publish,,34.0536823,-118.2104457,2017-01-30T14:05:46.000Z,6497924.91315031,1841983.14472231
+-118.131974456925121,33.916222867212255,133652821,81679,Probation Department (EVSE),"Located in front visitor parking lot
+
+Opened at 10/1/2014
+
+Business hours; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,9150 E Imperial Hwy,,Downey,CA,90242,Business hours,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81679,Los Angeles County - Probation Department,,,publish,,33.9162229,-118.1319744,2017-01-30T14:05:53.000Z,6521628.70170064,1791918.34590198
+-118.445957256551424,34.325909466216224,133652822,81676,Olive View UCLA Medical Center - Overflow Lot (EVSE),"Located in the overflow lot
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,14445 Olive View Dr,,Sylmar,CA,91342,24 hours daily,323-267-2023,,,Future Site,10 charging stations,http://egis3.lacounty.gov/lms/?p=81676,Los Angeles County - Olive View UCLA Medical Center,,,publish,,34.3259095,-118.4459572,2017-01-30T14:05:56.000Z,6427026.7675453,1941283.58818139
+-118.445957256551424,34.325909466216224,133652823,81674,Olive View UCLA Medical Center (EVSE),"Located just East of the Sheriff substation. Enter off Cobalt St. Additional chargers located in the overflow lot
+
+Opened at 10/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,14445 Olive View Dr,,Sylmar,CA,91342,24 hours daily,323-267-2023,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81674,Los Angeles County - Olive View UCLA Medical Center,,,publish,,34.3259095,-118.4459572,2017-01-30T14:06:00.000Z,6427026.7675453,1941283.58818139
+-118.359229356289873,34.063932266919302,133652824,81672,Museum of Art (EVSE),"Garage entrance on 6th St. Chargers located on first level.
+
+Opened at 4/10/2012
+
+Garage business hours; pay lot",Transportation,Alternative Fuel,Electricity Fueling Stations,5905 Wilshire Blvd,Los Angeles,Los Angeles,CA,90036,,"888-833-2148
+323-857-6010",,,County Only,3 charging stations,http://egis3.lacounty.gov/lms/?p=81672,Los Angeles County - Museum of Art,,,publish,,34.0639323,-118.3592293,2017-01-30T14:06:05.000Z,6452870.84446597,1845841.00085172
+-118.449266256346206,34.207174366690907,133652825,81670,Mid-Valley Comprehensive Health Center (EVSE),"Parking structure ground Floor
+
+Opened at 4/1/2015
+
+6am-6pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,7515 Van Nuys Blvd,,Van Nuys,CA,91405,6am-6pm M-F,"213-972-7211
+323-267-2023",,,Future Site,2 charging stations,http://egis3.lacounty.gov/lms/?p=81670,Los Angeles County - Mid-Valley Comprehensive Health Center,,,publish,,34.2071744,-118.4492662,2017-01-30T14:06:09.000Z,6425834.59342048,1898078.59322673
+-118.449266256346206,34.207174366690907,133652826,81668,Mid-Valley Comprehensive Health Center (EVSE),"Parking structure ground Floor
+
+Opened at 4/1/2015
+
+6am-6pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,7515 Van Nuys Blvd,,Van Nuys,CA,91405,6am-6pm M-F,213-972-7211  323-267-2023,,,County Only,5 charging stations,http://egis3.lacounty.gov/lms/?p=81668,Los Angeles County - Mid-Valley Comprehensive Health Center,,,publish,,34.2071744,-118.4492662,2017-01-30T14:06:13.000Z,6425834.59342048,1898078.59322673
+-118.245352256714725,33.923852367340892,133652827,81666,Martin Luther King Hospital (EVSE),"Located east of the parking structure
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,1670 E 120th St,,Los Angeles ,CA,90059,24 hours daily,323-267-2023,,,Future Site,10 charging stations,http://egis3.lacounty.gov/lms/?p=81666,Los Angeles County - Martin Luther King Hospital ,,,publish,,33.9238524,-118.2453522,2017-01-30T14:06:16.000Z,6487236.1943703,1794759.44947173
+-118.245352256714725,33.923852367340892,133652828,81664,Martin Luther King Hospital (EVSE),"Located at loading dock, first driveway East of Compton Ave
+
+Opened at 10/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE
+
+&nbsp;",Transportation,Alternative Fuel,Electricity Fueling Stations,1670 E 120th St,,Los Angeles ,CA,90059,24 hours daily,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81664,Los Angeles County - Martin Luther King Hospital,,,publish,,33.9238524,-118.2453522,2017-01-30T14:06:19.000Z,6487236.1943703,1794759.44947173
+-118.124681557244415,34.704551666241613,133652830,81660,High Desert Regional Health Center (EVSE),"Located in employee parking
+
+Opened at 8/1/2014
+
+Business hours; use buzzer to summon security for access to parking lot",Transportation,Alternative Fuel,Electricity Fueling Stations,335 E Ave I,,Lancaster ,CA,93535,Business hours,323-881-3919,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81660,Los Angeles County - High Desert Regional Health Center,,,publish,,34.7045517,-118.1246815,2017-01-30T14:06:26.000Z,6524197.24380764,2078805.0785578
+-118.248158556783366,34.056295066693913,133652831,81633,Hall of Administration (EVSE),"Located in Internal Services Department  Lot 18, lower level
+
+Opened at 8/1/2014
+
+Los Angeles County FLEET Only Fleet Area",Transportation,Alternative Fuel,Electricity Fueling Stations,140 N Grand Ave,,Los Angeles,CA,90012,,,,,Fleet Only,8 charging stations,http://egis3.lacounty.gov/lms/?p=81633,Los Angeles County - Hall of Administration,,,publish,,34.0562951,-118.2481585,2017-01-30T14:07:44.000Z,6486503.82149123,1842960.04926457
+-118.152719656640727,34.010837766892529,133652832,81658,Health Services (EVSE),"Located in rear parking lot
+
+Opened at 10/1/2014
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,5555 Ferguson Dr,,Commerce,CA,90022,24 hours daily,323-267-2023,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81658,Los Angeles County - Health Services,,,publish,,34.0108378,-118.1527196,2017-01-30T14:08:08.000Z,6515386.83163847,1826359.61297731
+-118.291844755508251,33.830725267664398,133652833,81655,Harbor UCLA Medical Center (EVSE),"Lot D Ground Floor
+
+Opened at 6/30/2017
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,1000 W Carson St,,Torrance,CA,90502,24 hours daily,323-267-2023,,,Future Site,24 charging stations,http://egis3.lacounty.gov/lms/?p=81655,Los Angeles County - Harbor UCLA Medical Center,,,publish,,33.8307253,-118.2918447,2017-01-30T14:08:12.000Z,6473033.09154297,1760906.07360905
+-118.291844755508251,33.830725267664398,133652834,81653,Harbor UCLA Medical Center (EVSE),"Lot D Ground Floor
+
+Opened at 6/30/2017
+
+24 hours daily; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,1000 W Carson St,,Torrance,CA,90502,24 hours daily,323-267-2023,,,Future Site,8 charging stations,http://egis3.lacounty.gov/lms/?p=81653,Los Angeles County - Harbor UCLA Medical Center,,,publish,,33.8307253,-118.2918447,2017-01-30T14:08:16.000Z,6473033.09154297,1760906.07360905
+-118.172797356100261,34.051930667102063,133652835,81651,Fire Department Headquarters (EVSE),"Located at the northwestern edge of parking lot
+
+Opened at 6/30/2017
+
+6am-6pm M-F; keypad activated, instructions on EVSE; Fleet use only",Transportation,Alternative Fuel,Electricity Fueling Stations,1320 N Eastern Ave,,Los Angeles,CA,90063,6am-6pm M-F,,,,Future Site,6 charging stations,http://egis3.lacounty.gov/lms/?p=81651,Los Angeles County - Fire Department,,,publish,,34.0519307,-118.1727973,2017-01-30T14:08:19.000Z,6509327.75812672,1841323.96493831
+-118.236665756916466,34.700500665947288,133652837,81647,"Internal Services Shop, Mira Loma (EVSE)","Opened at 8/1/2014
+
+7am-4pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,45000 N 60th St W,,Lancaster,CA,93536,7am-4pm M-F,323-267-2023,,,County Only,1 charging stations,http://egis3.lacounty.gov/lms/?p=81647,Los Angeles County - Internal Services ,,,publish,,34.7005007,-118.2366657,2017-01-30T14:08:28.000Z,6490536.9259578,2077391.29103106
+-118.17425565615315,34.049701466868925,133652838,81645,Internal Services Shop (EVSE),"Opened at 8/1/2014
+
+Los Angeles County fleet use only",Transportation,Alternative Fuel,Electricity Fueling Stations,1104 N Eastern Ave,,Los Angeles ,CA,90063,,,,,Fleet Only,6 charging stations,http://egis3.lacounty.gov/lms/?p=81645,Los Angeles County - Internal Services ,,,publish,,34.0497015,-118.1742556,2017-01-30T14:08:31.000Z,6508884.61399989,1840513.47935456
+-117.987391256866914,34.132765066712352,133652839,81643,Internal Services Shop (EVSE),"Opened at 5/26/2016
+
+7am-4pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,1703 Mountain Ave,,Monrovia,CA,91016,7am-4pm M-F,323-267-2023,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81643,Los Angeles County - Internal Services,,,publish,,34.1327651,-117.9873912,2017-01-30T14:08:36.000Z,6565486.00998323,1870696.37929048
+-118.17409605606484,34.051670867287676,133652840,81641,Internal Services Department Telecomm (EVSE),"Opened at 8/1/2014
+
+6am-6pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,1110 N Eastern Ave,,Los Angeles ,CA,90063,6am-6pm M-F,323-267-2023,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81641,Los Angeles County - Internal Services Department,,,publish,,34.0516709,-118.174096,2017-01-30T14:08:40.000Z,6508934.20149913,1841230.09767197
+-118.175893456608918,34.049310366838718,133652841,81639,Internal Services Department Headquarters (EVSE),"Located in lot 81
+
+Opened at 8/1/2014
+
+6am-6pm M-Th; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,1102 N Eastern Ave,,Los Angeles ,CA,90063,6am-6pm M-Th,323-267-2023,,,Public ,4 charging stations,http://egis3.lacounty.gov/lms/?p=81639,Los Angeles County - Internal Services Department,,,publish,,34.0493104,-118.1758934,2017-01-30T14:08:44.000Z,6508388.24097688,1840372.01474248
+-118.248158556783366,34.056295066693913,133652842,81637,Hall of Administration (EVSE),"Located in Internal Services Department  Lot 18, upper level
+
+Opened at 8/1/2014
+
+Permitted Employee parking Only Lower Level; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,140 N Grand Ave,,Los Angeles ,CA,90012,,,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81637,Los Angeles County - Hall of Administration,,,publish,,34.0562951,-118.2481585,2017-01-30T14:08:50.000Z,6486503.82149123,1842960.04926457
+-118.248158556783366,34.056295066693913,133652843,81635,Hall of Administration (EVSE),"Located in Internal Services Department  Lot 18, upper level
+
+Opened at 8/1/2014
+
+Permitted Employee parking Only Upper Level; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,140 N Grand Ave,,Los Angeles ,CA,90012,,,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81635,Los Angeles County - Hall of Administration,,,publish,,34.0562951,-118.2481585,2017-01-30T14:08:54.000Z,6486503.82149123,1842960.04926457
+-118.273681056070572,34.026055866786706,133652844,81631,Department of Public Social Services - County Auto Park Lot 46 (EVSE),"Opened at 6/15/2015
+
+Permitted employee parking only; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,318 W Adams Blvd,,Los Angeles,CA,90007,,,,,County Only,2 charging stations,http://egis3.lacounty.gov/lms/?p=81631,Los Angeles County - Department of Public Social Services,,,publish,,34.0260559,-118.273681,2017-01-30T14:10:13.000Z,6478743.18478155,1831975.51775597
+-117.753928757847717,34.05275016762301,133652845,81629,Department of Public Health (EVSE),"Located behind the building
+
+Opened at 8/30/2016
+
+6am-6pm M-F; keypad activated, instructions on EVSE; Employee use only",Transportation,Alternative Fuel,Electricity Fueling Stations,750 S Park,,Pomona,CA,91766,6am-6pm M-F,,,,Future Site,2 charging stations,http://egis3.lacounty.gov/lms/?p=81629,Los Angeles County - Department of Public Health,,,publish,,34.0527502,-117.7539287,2017-01-30T14:10:18.000Z,6636207.78783073,1841668.44915748
+-117.974462556843491,34.103147867241177,133652846,81627,Department of Public Health (EVSE),"In rear of building
+
+Opened at 7/1/2015
+
+6am-6pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,5050 Commerce Dr,,Baldwin Park,CA,91706,6am-6pm M-F,,,,County Only,6 charging stations,http://egis3.lacounty.gov/lms/?p=81627,Los Angeles County - Department of Public Health,,,publish,,34.1031479,-117.9744625,2017-01-30T14:10:21.000Z,6569401.24001364,1859918.87427072
+-118.290484256045033,34.064346167126509,133652847,81625,Department of Mental Health (EVSE),"Located in lot 68
+
+Opened at 6/15/2016
+
+Permitted employee parking only; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,523 Shatto Pl,,Los Angeles,CA,90020,,,,,County Only,4 charging stations,http://egis3.lacounty.gov/lms/?p=81625,Los Angeles County - Department of Mental Health,,,publish,,34.0643462,-118.2904842,2017-01-30T14:10:25.000Z,6473691.9872068,1845924.33762731
+-118.24943605592135,34.059866766633647,133652848,81622,Department of Health Services Administration Lot 29 (EVSE),"Enter on N Figueroa
+
+Opened at 8/1/2014
+
+Garage business hours; pay lot; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,313 N Figueroa,,Los Angeles,CA,90012,,"213-972-7211
+323-267-2023",,,Public ,4 charging stations,http://egis3.lacounty.gov/lms/?p=81622,Los Angeles County - Department of Health Services,,,publish,,34.0598668,-118.249436,2017-01-30T14:10:29.000Z,6486120.09686497,1844260.8137234
+-118.291304656143069,33.963110267360953,133652849,81620,"Department of Children &amp; Family Services (EVSE)","Located in the parking structure
+
+Opened at 9/1/2015
+
+6am-6pm M-F; keypad activated, instructions on EVSE",Transportation,Alternative Fuel,Electricity Fueling Stations,8300 S Vermont Ave,,Los Angeles,CA,90044,6am-6pm M-F,323-267-2023,,,County Only,16 charging stations,http://egis3.lacounty.gov/lms/?p=81620,Los Angeles County - Department of Children & Family Services,,,publish,,33.9631103,-118.2913046,2017-01-30T14:10:34.000Z,6473336.74710363,1809083.41754289
+-118.15004645611458,34.084543667003146,133654296,81614,Public Works Headquarters (EVSE),Located in front and near the motorpool area,Transportation,Alternative Fuel,Electricity Fueling Stations,900 S Fremont Ave,,Alhambra,CA,91803,"6am-6pm M-F; keypad activated, instructions on EVSE
+",323-267-2023,,,Public ,8 charging stations,http://egis3.lacounty.gov/lms/?p=81614,Los Angeles County - Department of Public Works,,,publish,,34.0845437,-118.1500464,2018-02-12T14:00:25.000Z,6516237.01497747,1853181.38118406
