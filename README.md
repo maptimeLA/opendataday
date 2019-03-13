@@ -22,3 +22,8 @@ We are using data that can be found through LA Counts:
 We aren't going to go in-depth, but we will cover basic usage. Additional resources:
 * QGIS Tutorials: [https://www.qgistutorials.com/en/](https://www.qgistutorials.com/en/)
 * Documentation: [https://docs.qgis.org/testing/en/docs/](https://docs.qgis.org/testing/en/docs/)
+
+
+# Downloads
+* [Download MacOS Packages of QQIS](https://lutraconsulting.github.io/qgis-mac-packager/). This package contains standalone QGIS installation, with bundled Python3, Qt, GDAL, GRASS, SAGA and other dependencies. 
+* [Download QGIS for your platform](https://www.qgis.org/en/site/forusers/download.html)
