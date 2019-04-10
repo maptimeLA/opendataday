@@ -18,6 +18,11 @@ We are using data that can be found through LA Counts:
 * Schools:[https://lacounts.ckan.io/dataset/public-schools-and-districts](https://lacounts.ckan.io/dataset/public-schools-and-districts)
 * Parks: [https://lacounts.ckan.io/dataset/protected-open-space-areas-scag-region](https://lacounts.ckan.io/dataset/protected-open-space-areas-scag-region)
 
+# Other data sources
+* [data.world](https://data.world/)
+* [LA Counts](https://www.lacounts.org/)
+* [DataLA: Los Angeles Open Data](https://data.lacity.org/)
+
 # Scope
 We aren't going to go in-depth, but we will cover basic usage. Additional resources:
 * QGIS Tutorials: [https://www.qgistutorials.com/en/](https://www.qgistutorials.com/en/)
